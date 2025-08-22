@@ -21,6 +21,8 @@ I help businesses and individuals leverage **AI agents, data workflows, and inte
 - 📫 You can reach me : khalidreemy@gmail.com
 - Linked-in account: https://www.linkedin.com/in/khalid-alreemy-668514192
 
+⭐️ *Always exploring, always building. Let’s connect and create something impactful!*  
+
 <!---
 khalidreemy/khalidreemy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
