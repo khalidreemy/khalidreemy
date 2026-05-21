@@ -6,7 +6,7 @@ Riyadh, KSA · +966 559 547 469 · khalidreemy@gmail.com
 
 ## Professional Summary
 
-AI Engineer with 10 years of experience designing and delivering production-grade AI systems across Generative AI, NLP, computer vision, and applied data science. Proven track record of taking ambitious ideas from raw data to deployed product — covering data pipeline design, model fine-tuning, retrieval-augmented generation (RAG), evaluation, and API delivery. Fine-tuned large open-weight models on tens of thousands of curated samples, architected an enterprise-grade AI platform for data governance, and shipped multiple language and medical-imaging models into real-world use. Passionate about building AI that is defensible, auditable, and genuinely useful — and about closing the gap between cutting-edge research and the products people depend on every day.
+AI Engineer with 9+ years of experience designing and delivering production-grade AI systems across Generative AI, NLP, computer vision, and applied data science. Proven track record of taking ambitious ideas from raw data to deployed product — covering data pipeline design, model fine-tuning, retrieval-augmented generation (RAG), evaluation, and API delivery. Fine-tuned large open-weight models on tens of thousands of curated samples, architected an enterprise-grade AI platform for data governance, and shipped multiple language and medical-imaging models into real-world use. Passionate about building AI that is defensible, auditable, and genuinely useful — and about closing the gap between cutting-edge research and the products people depend on every day.
 
 ---
 
