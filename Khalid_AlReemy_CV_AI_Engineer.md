@@ -6,7 +6,7 @@ Riyadh, KSA · +966 559 547 469 · khalidreemy@gmail.com
 
 ## Professional Summary
 
-AI Engineer with 8+ years building production AI/ML systems across NLP, LLMs, computer vision, and applied data science. Hands-on experience designing end-to-end pipelines — from data profiling and feature engineering to model fine-tuning, retrieval-augmented generation (RAG), and deployment behind clean APIs. Fine-tuned LLaMA 3.1 8B Instruct on 90,000+ annotated samples for skill extraction, designed an enterprise data-governance platform powered by GPT-4o/GPT-5 semantic enrichment, and shipped multiple NLP and medical-imaging models. Strong in Python, prompt engineering, vector search, and bridging AI capability with real product UX.
+AI Engineer with 10 years building production AI/ML systems across NLP, LLMs, computer vision, and applied data science. Hands-on experience designing end-to-end pipelines — from data profiling and feature engineering to model fine-tuning, retrieval-augmented generation (RAG), and deployment behind clean APIs. Fine-tuned LLaMA 3.1 8B Instruct on 90,000+ annotated samples for skill extraction, designed an enterprise data-governance platform powered by GPT-4o/GPT-5 semantic enrichment, and shipped multiple NLP and medical-imaging models. Strong in Python, prompt engineering, vector search, and bridging AI capability with real product UX.
 
 ---
 
